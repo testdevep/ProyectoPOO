@@ -1,0 +1,7 @@
+C:\Users\dabar\Desktop\Proyectos Unidad 1 Parte III\Proyecto3\Ejemplo_EnumPOO\bin\Debug\Ejemplo_EnumPOO.exe.config
+C:\Users\dabar\Desktop\Proyectos Unidad 1 Parte III\Proyecto3\Ejemplo_EnumPOO\bin\Debug\Ejemplo_EnumPOO.exe
+C:\Users\dabar\Desktop\Proyectos Unidad 1 Parte III\Proyecto3\Ejemplo_EnumPOO\bin\Debug\Ejemplo_EnumPOO.pdb
+C:\Users\dabar\Desktop\Proyectos Unidad 1 Parte III\Proyecto3\Ejemplo_EnumPOO\obj\Debug\Ejemplo_EnumPOO.csprojAssemblyReference.cache
+C:\Users\dabar\Desktop\Proyectos Unidad 1 Parte III\Proyecto3\Ejemplo_EnumPOO\obj\Debug\Ejemplo_EnumPOO.csproj.CoreCompileInputs.cache
+C:\Users\dabar\Desktop\Proyectos Unidad 1 Parte III\Proyecto3\Ejemplo_EnumPOO\obj\Debug\Ejemplo_EnumPOO.exe
+C:\Users\dabar\Desktop\Proyectos Unidad 1 Parte III\Proyecto3\Ejemplo_EnumPOO\obj\Debug\Ejemplo_EnumPOO.pdb
