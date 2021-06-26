@@ -13,6 +13,7 @@ namespace Ejemplo_EnumPOO
             Console.WriteLine("=======================================================");
             Console.WriteLine("====== Bienvenido(a) al sistema de comisiones =====");
             Console.WriteLine("=======================================================");
+            Console.WriteLine("=======================================================");
             Console.WriteLine();
 
             Empleado Usuario = new Empleado("","",0,0);
