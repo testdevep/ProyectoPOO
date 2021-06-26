@@ -17,6 +17,7 @@ namespace Ejemplo_EnumPOO
             Console.WriteLine();
 
             Empleado Usuario = new Empleado("","",0,0);
+            Empleado Usuario2 = new Empleado("","",1,2);
 
             Console.WriteLine("Ingrese la cedula del empleado:");
             Usuario.setCedula(Console.ReadLine());
